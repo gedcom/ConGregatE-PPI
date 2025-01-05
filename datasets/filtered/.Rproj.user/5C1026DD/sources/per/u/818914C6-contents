@@ -1,0 +1,3 @@
+library("tidyverse")
+
+chaps = readr::read_tsv("filtered_HIC_data_with_names.txt")
